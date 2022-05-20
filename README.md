@@ -13,3 +13,4 @@ tensorboardx==2.1
 python==3.7.10	
 pytorch==1.7.1	
 pybullet==3.1.0	
+SUMO==0.19.0
