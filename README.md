@@ -16,4 +16,4 @@ pybullet==3.1.0
 SUMO==0.19.0
 
 # Training
-result/ramp_mergingRun.py
+results/ramp_mergingRun.py
