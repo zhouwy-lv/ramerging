@@ -20,7 +20,7 @@ results/ramp_mergingRun.py
 
 The tensorboard file and model file will be saved in ./results/log and ./results/Models, 
 
-# Texting
+# Testing
 results/ramp_merge_text.py
 
 The policy our trained will be in ./results/Models.
