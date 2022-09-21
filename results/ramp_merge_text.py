@@ -24,9 +24,6 @@ hyperparameters = {
 EPSILON = 1e-6
 
 # resume_path ='E:\SUMO_PY\SUMO_RampMerge_1\\results\Models\RampMerging-v1\DDPG\\20210428222411\DDPG_3700_682.model'
-resume_path='E:\SUMO_PY\SUMO_RampMerge_1safe\\results\Models\RampMerging-v1\DDPG\\20210604085809\DDPG_2200_413.model'
-# resume_path='E:\SUMO_PY\SUMO_RampMerging\\results\Models\RampMerging-v1\DDPG\\20210608090756\DDPG_5000_976.model'
-# resume_path='E:\SUMO_PY\SUMO_RampMerge_1\\results\Models\RampMerging-v1\DDPG\\20210428222411\DDPG_3100_568.model'
 
 
 def create_NN(input_dim, output_dim, key_to_use=None, override_seed=None, hyperparameters=None):
