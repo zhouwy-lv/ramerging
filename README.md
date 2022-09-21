@@ -26,6 +26,6 @@ results/ramp_merge_text.py
 The policy our trained will be in ./results/Models.
 
 
-# Thanking
+# Thanks
 Thanks for code:
 https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
