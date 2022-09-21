@@ -1,7 +1,6 @@
 # ramerging
-
-
 The code need install sumo https://sumo.dlr.de/docs/Downloads.php
+
 # Dependencies
 numpy==1.17.0
 torch==0.4.1.post2
