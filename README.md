@@ -17,3 +17,6 @@ SUMO==0.19.0
 
 # Training
 results/ramp_mergingRun.py
+
+Thanks for code:
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
